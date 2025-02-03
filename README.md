@@ -29,7 +29,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [github](https://github.com/darkquail/product-preview-card-component)
-- Live Site URL: [live previw](https://darkquail.github.io/product-preview-card-component/index.html)
+- Live Site URL: [live preview](https://darkquail.github.io/product-preview-card-component/index.html)
 
 ## My process
 
