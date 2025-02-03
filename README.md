@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/darkquail/product-preview-card-component)
-- Live Site URL: [Add live site URL here](https://darkquail.github.io/product-preview-card-component/index.html)
+- Solution URL: [github](https://github.com/darkquail/product-preview-card-component)
+- Live Site URL: [live previw](https://darkquail.github.io/product-preview-card-component/index.html)
 
 ## My process
 
